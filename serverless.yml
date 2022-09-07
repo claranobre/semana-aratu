@@ -1,6 +1,6 @@
 service: ${file(./config.json):deployment.serviceName}
 
-org: trackit
+org: aratu
 
 provider:
   name: aws
